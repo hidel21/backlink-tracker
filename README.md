@@ -10,11 +10,13 @@ Este es un script de Python que utiliza la biblioteca Streamlit para crear una a
 7. Descarga los datos de stopwords de NLTK.
 ## Instalación y Configuración
 Para utilizar la aplicación, sigue estos pasos:
-* Clona el repositorio: 'git clone https://github.com/tu-usuario/tu-proyecto.git'
-* Instala las dependencias: 'pip install -r requirements.txt'
-* Crea un archivo client_secret_key.json con las credenciales de la API de Google Search Console.
-* Ejecuta el script utilizando el siguiente comando en la terminal: 'streamlit run backlink_tracker.py'
+* Clona el repositorio: `git clone https://github.com/tu-usuario/tu-proyecto.git`
+* Instala las dependencias: `pip install -r requirements.txt`
+* Crea un archivo `client_secret_key.json` con las credenciales de la API de Google Search Console.
+* Ejecuta el script utilizando el siguiente comando en la terminal: `streamlit run backlink_tracker.py`
 * Cargue un archivo CSV o Excel con una lista de URLs que desea realizar un seguimiento de los backlinks.
 * Seleccione un rango de fechas.
 * Haga clic en el botón "Iniciar seguimiento de backlinks".
 * Los datos de backlinks se mostrarán en una tabla para cada mes del rango de fechas seleccionado.
+
+Creado por [Hidelberg Martinez](https://www.linkedin.com/in/hidelberg-martnez-espitia/)https://www.linkedin.com/in/hidelberg-martnez-espitia/
