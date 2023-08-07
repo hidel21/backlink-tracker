@@ -19,4 +19,4 @@ Para utilizar la aplicación, sigue estos pasos:
 * Haga clic en el botón "Iniciar seguimiento de backlinks".
 * Los datos de backlinks se mostrarán en una tabla para cada mes del rango de fechas seleccionado.
 
-Creado por [Hidelberg Martinez](https://www.linkedin.com/in/hidelberg-martnez-espitia/)https://www.linkedin.com/in/hidelberg-martnez-espitia/
+Creado por [Hidelberg Martinez](https://www.linkedin.com/in/hidelberg-martnez-espitia/)
