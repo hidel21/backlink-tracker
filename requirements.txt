@@ -1,0 +1,9 @@
+streamlit
+pandas
+pickle-mixin
+google-auth
+google-auth-oauthlib
+google-api-python-client
+nltk
+python-dateutil
+scikit-learn
